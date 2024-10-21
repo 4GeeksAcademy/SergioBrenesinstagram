@@ -1,0 +1,66 @@
+body{
+    background:black;
+}
+
+.Ciudades{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+}
+.Titulo{
+    display: flex;
+    
+}
+.Linea{
+    color: white;
+    font-size: 70px;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+.Instagram{
+    width: 250px;
+    height: 250px;
+}
+.TtlCiudades{
+    display: flex;
+    justify-content: center;
+    background: grey;
+    height: 60px;
+    margin-bottom: 10px;
+
+}
+.Pingyao{
+    height: 700px;
+    background: black;
+    margin-bottom: 500px;
+}
+.NuevaYork{
+    height: 700px;
+    background: black;
+    margin-bottom: 500px;
+}
+.Madrid{
+    height: 700px;
+    background: black;
+    margin-bottom: 500px;
+}
+.Roma{
+    height: 700px;
+    background: black;
+    margin-bottom: 500px;
+}
+.Foto{
+    width: 900px;
+    height: 700px;
+}
+.Descripcion{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    font-size: 25px;
+    background: white;
+    margin-top: 10px;
+    width: 900px;
+    height: 300px;
+}
